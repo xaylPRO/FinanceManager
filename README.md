@@ -1,6 +1,6 @@
 # FinanceManager
 FinanceManager built with Python and PyQT5<br>
-Executable file is included, just extraxt all files into a new folder from the .rar archive...<br>
+Executable file is included, just EXTRACT all files into a new folder from the .rar archive...<br>
 Preview:<br>
 <img src="f1.PNG"><br>
 <img src="f2.PNG"><br>
